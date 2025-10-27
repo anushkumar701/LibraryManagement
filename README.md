@@ -264,13 +264,4 @@ LibrarySystem/
 - [ ] Export reports (PDF/Excel)
 
 ## 👨‍💻 Developer
-
-Developed with ❤️ using Java, JSP, Servlets, and PostgreSQL
-
-## 📄 License
-
-This project is for educational purposes.
-
----
-
-**Note**: Remember to change default passwords and add proper environment variables for production deployment!
+www.linkedin.com/in/anush-kumar-k
